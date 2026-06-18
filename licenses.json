@@ -1,11 +1,14 @@
 {
   "status": "active",
-  "blacklist": [],
   "keys": {
     "DR-WARD-2026-OK": {
       "status": "active",
-      "deviceId": "DENTA-FA92-B83C"
+      "deviceId": "DENTA-CF12-E59B-40A2"
     },
-    "DR-CLINIC-2026-ACTIVE": "active"
+    "DR-IBRAHEEM-2026-X9": {
+      "status": "active",
+      "deviceId": "DENTA-77A2-18E2-F409"
+    },
+    "CLINIC-KEY-TEMP-30": "active" 
   }
 }
