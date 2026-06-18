@@ -1,9 +1,11 @@
 {
   "status": "active",
+  "blacklist": [],
   "keys": {
-    "DR-WARD-2026-OK": "active",
-    "DR-IBRAHEEM-2026-X9": "active",
-    "CLINIC-KEY-TEMP-77": "active",
-    "BLOCKED-USER-CODE-99": "blocked"
+    "DR-WARD-2026-OK": {
+      "status": "active",
+      "deviceId": "DENTA-FA92-B83C"
+    },
+    "DR-CLINIC-2026-ACTIVE": "active"
   }
 }
