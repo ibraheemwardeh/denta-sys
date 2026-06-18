@@ -5,15 +5,15 @@
       "status": "active",
       "deviceId": "DENTA-CF12-E59B-40A2"
     },
-    "DR-IBRAHEEM-2026-X9": {
+    "DR-IBRAHEEM-2026-X94": {
       "status": "active",
-      "deviceId": "DENTA-4C5B-B318-14BD",
+      "deviceId": "",
       "days": "60"
     },
     "DR-IBRAHEEM-2026-X9": {
       "status": "active",
-      "deviceId": "DENTA-3B9A-E210-90FC",
-      "expiry": "2026-09-30"  // سينتهي التفعيل وينغلق البرنامج تلقائياً في هذا التاريخ فوراً
+      "deviceId": "DENTA-4C5B-B318-14BD",
+      "expiry": "2026-09-30"
     },
     "CLINIC-KEY-TEMP-30": "active" 
   }
